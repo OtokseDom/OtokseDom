@@ -51,10 +51,6 @@ Currently working at **Spread Technology**, I transform complex ideas into elega
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📦 State Management & Utilities
-![Zustand](https://img.shields.io/badge/Zustand-3C3C37?style=for-the-badge)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -62,9 +58,6 @@ Currently working at **Spread Technology**, I transform complex ideas into elega
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-
-### 📊 Laravel Ecosystem
-![Laravel Telescope](https://img.shields.io/badge/Laravel%20Telescope-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 
@@ -78,45 +71,13 @@ Currently working at **Spread Technology**, I transform complex ideas into elega
 
 </div>
 
-### Key Metrics
-
-- ✅ **1,259 contributions** in the last year
-- 📚 **11 repositories** (2 public, 9 private)
-- ⭐ **4 stars** on public projects
-- 🍴 **2 forks** across repositories
-- 🎖️ **Pull Shark** (x2) - Created high-impact pull requests
-- 🎖️ **YOLO** - Merged a pull request without review
-
----
-
-## 🏆 Featured Projects
-
-### 🎯 [Otokse Project Management](https://github.com/OtokseDom/otokse-project-management)
-*A modern web application for project and task management*
-
-Built to help teams organize work, visualize progress, and collaborate seamlessly. Features include role-based access, interactive views, and real-time team insights.
-
-- **Stack:** JavaScript, React, Laravel
-- **Features:** Multi-view organization, intelligent task management, real-time collaboration
-- **Stats:** ⭐ 4 | 🍴 2 | 📜 MIT License
-
-### 💼 [React Portfolio](https://github.com/OtokseDom/react-portfolio)
-*Personal portfolio website showcasing projects and professional experience*
-
-- **Stack:** JavaScript, React
-- **Highlights:** Responsive design, smooth animations, project showcase
-
 ---
 
 ## 🌱 Currently Working On
 
 - 🚀 Enhancing the Otokse project management platform with advanced analytics
-- 🤝 Contributing to open source projects
 - 🔧 Building full-stack applications with Laravel and React
-- 📦 Mastering state management with Zustand
-- 📊 Implementing advanced data visualization with Chart.js
 - 🎨 Creating beautiful UIs with shadcn/ui and Tailwind CSS
-- 🔍 Deep diving into Laravel Telescope for performance optimization
 - 🎮 Exploring DevOps and containerization with Docker
 
 ---
@@ -125,32 +86,8 @@ Built to help teams organize work, visualize progress, and collaborate seamlessl
 
 | Organization | Role | Focus |
 |---|---|---|
-| **BUCS-Research** | Contributor | Research initiatives |
-| **BUCS-Research-Office** | Collaborator | Collaborative development |
-| **Spread Technology** | Developer | Professional development |
-
----
-
-## 📈 Repository Breakdown
-
-| Category | Count | Primary Languages |
-|---|---|---|
-| **Public** | 2 | JavaScript |
-| **Private** | 9 | PHP, JavaScript, CSS |
-| **Total Commits** | 1,200+ | - |
-
----
-
-## 🎯 Development Focus
-
-```
-Frontend Development:    ████████████░░░░░░░░ 80%
-Backend Development:     ████████████░░░░░░░░ 80%
-Project Management:      █████████░░░░░░░░░░░ 60%
-DevOps & Deployment:     ██████░░░░░░░░░░░░░░ 50%
-Open Source:             ███░░░░░░░░░░░░░░░░░ 30%
-Creative Tech:           ███████░░░░░░░░░░░░░ 45%
-```
+| **BUCS-Research-Office** | Collaborator | Copyright Owner |
+| **Spread Technology** | Technical Analyst | Project Management |
 
 ---
 
@@ -159,7 +96,6 @@ Creative Tech:           ███████░░░░░░░░░░░�
 I'm constantly evolving and improving my skills in:
 
 - 🔄 Advanced React patterns and performance optimization
-- 🏗️ Microservices architecture
 - 🌐 Cloud deployment and CI/CD pipelines
 - 📊 Advanced data visualization techniques
 - 🎨 UI/UX design principles
@@ -174,9 +110,7 @@ I'm constantly evolving and improving my skills in:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-OtokseDom-181717?style=for-the-badge&logo=github)](https://github.com/OtokseDom)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge)](mailto:your-email@example.com)
-
-**Followers:** 2 | **Following:** 1
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge)](mailto:imjohndominic08+github@gmail.com)
 
 **Location:** Dubai 🇦🇪 | **Pronouns:** he/him
 
@@ -186,10 +120,9 @@ I'm constantly evolving and improving my skills in:
 
 ## ⚡ Fun Facts
 
-- 🎮 Competitive gamer - Valorant and League of Legends enthusiast
+- 🎮 Competitive gamer - Valorant and League of Legends player
 - 📸 Aspiring photographer and videographer
 - 🎞️ Film production hobbyist
-- 💻 Completed **1,259 contributions** in the last year
 - 🌍 Passionate about traveling and exploring new cultures
 - 💡 Always exploring the intersection of technology and creativity
 
