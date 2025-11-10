@@ -84,10 +84,10 @@ Currently working at **Spread Technology**, I transform complex ideas into elega
 
 ## 🤝 Organizations
 
-| Organization | Role | Focus |
+| Organization | Role | Achievments |
 |---|---|---|
-| **BUCS-Research-Office** | Collaborator | Copyright Owner |
-| **Spread Technology** | Technical Analyst | Project Management |
+| **BUCS-Research-Office** | Lead Developer | Copyright Owner of a Research Management Web App |
+| **Spread Technology** | Technical Analyst | Documentation, UI/UX, API Design, Testing, Project Management, Collaboration |
 
 ---
 
