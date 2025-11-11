@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/OtokseDom?label=Followers&style=social)](https://github.com/OtokseDom)
 [![GitHub User's stars](https://img.shields.io/github/stars/OtokseDom?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/OtokseDom)
 
-*Filipino 🇵🇭 | Based in Dubai 🇦🇪 | Open Source Contributor | Passionate about building exceptional digital experiences*
+*Filipino 🇵🇭 | Based in Dubai 🇦🇪 | Passionate about building exceptional digital experiences*
 
 ---
 
