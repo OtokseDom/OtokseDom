@@ -63,47 +63,12 @@ Currently working at **Spread Technology**, I transform complex ideas into elega
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![OtokseDom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OtokseDom&theme=algolia&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OtokseDom&theme=algolia&hide_border=true&layout=compact)
-
-</div>
-
----
-
-## 🌱 Currently Working On
-
-- 🚀 Enhancing the Otokse project management platform with advanced analytics
-- 🔧 Building full-stack applications with Laravel and React
-- 🎨 Creating beautiful UIs with shadcn/ui and Tailwind CSS
-- 🎮 Exploring DevOps and containerization with Docker
-
----
-
 ## 🤝 Organizations
 
 | Organization | Role | Achievments |
 |---|---|---|
 | **BUCS-Research-Office** | Lead Developer | Copyright Owner of a Research Management Web App |
 | **Spread Technology** | Technical Analyst | Documentation, UI/UX, API Design, Testing, Project Management, Collaboration |
-
----
-
-## 📚 Learning & Growth
-
-I'm constantly evolving and improving my skills in:
-
-- 🔄 Advanced React patterns and performance optimization
-- 🌐 Cloud deployment and CI/CD pipelines
-- 📊 Advanced data visualization techniques
-- 🎨 UI/UX design principles
-- 🎬 Creative technology and multimedia integration
-- 💰 Financial technology and investing
-- 📸 Digital content creation and storytelling
 
 ---
 
@@ -117,16 +82,6 @@ I'm constantly evolving and improving my skills in:
 **Location:** Dubai 🇦🇪 | **Pronouns:** he/him
 
 </div>
-
----
-
-## ⚡ Fun Facts
-
-- 🎮 Competitive gamer - Valorant and League of Legends player
-- 📸 Aspiring photographer and videographer
-- 🎞️ Film production hobbyist
-- 🌍 Passionate about traveling and exploring new cultures
-- 💡 Always exploring the intersection of technology and creativity
 
 ---
 
